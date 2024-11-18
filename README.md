@@ -12,7 +12,7 @@ Benvenuti nel mio spazio su GitHub! Sono un **Junior Java Developer** di recente
 
 Mi descrivo come **aperto**, **scrupoloso** e **orientato al pensiero laterale**, qualità che porto con me in ogni progetto.
 
-Formatomi con [Generation Italy](https://italy.generation.org/) nelle basi di front-end e back-end Development, ho trovato nella programmazione un terreno stimolante dal punto di vista intellettuale e fertile per la mia creatività. Sono una persona con un carattere riflessivo e un’attitudine per il problem solving. Adoro affrontare nuove sfide che mi spingano a migliorare le mie abilità e ad apprendere nuove soluzioni.
+Formatomi con [Generation Italy](https://italy.generation.org/) nelle basi di **front-end** e **back-end development**, ho trovato nella programmazione un terreno stimolante dal punto di vista intellettuale e fertile per la mia creatività. Sono una persona con un carattere riflessivo e un’attitudine per il problem solving. Adoro affrontare nuove sfide che mi spingano a migliorare le mie abilità e ad apprendere nuove soluzioni.
 
 ---
 
@@ -39,7 +39,7 @@ Ecco alcune delle aree su cui mi sto concentrando:
 
 ## 🎯 Obiettivi
 
-Il mio obiettivo è crescere professionalmente come sviluppatore e consolidare ed espandere le competenze finora apprese. Un'area che vorrei esplorare nel futuro prossimo è quella dei framework front-end (Angular o React). Vorrei inoltre fare esperienza di DBMS diversi da MySQL (MongoDB in particolare).
+Il mio obiettivo è crescere professionalmente come sviluppatore e consolidare ed espandere le competenze finora apprese. Un'area che vorrei esplorare nel futuro prossimo è quella dei **framework front-end** (**Angular** o **React**). Vorrei inoltre fare esperienza di **DBMS** diversi da MySQL (**MongoDB** in particolare).
 
 ---
 
