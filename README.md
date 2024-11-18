@@ -40,7 +40,7 @@ Al di là della programmazione, adoro coltivare la mia **curiosità** esplorando
 
 Se vuoi conoscermi meglio o collaborare a un progetto, puoi trovarmi qui:  
 - 🌐 **LinkedIn**: [Giacomo Mazzoni](https://www.linkedin.com/in/giacomo-mazzoni/)
-- 📧 **Email**: [mazzoni.giacomo@outlook.it](mazzoni.giacomo@outlook.it)
+- 📧 **Email**: [mazzoni.giacomo@outlook.it](mailto:mazzoni.giacomo@outlook.it)
 
 ---
 
