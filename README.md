@@ -1,25 +1,26 @@
 # 👋 Ciao, sono Giacomo Mazzoni!
 
-Benvenuti nel mio spazio su GitHub! Sono un **Junior Java Developer** di recente formazione. 🌱
+Benvenuti nel mio spazio su GitHub! Sono un **Junior Software Developer** di recente formazione. 🌱
 
 ---
 
 ## 🧑‍💻 Chi sono?
 
 - **Nome**: Giacomo Mazzoni  
-- **Età**: 26 anni  
+- **Età**: 27 anni  
 - **Paese**: Italia  
 
 Mi descrivo come **aperto**, **scrupoloso** e **orientato al pensiero laterale**, qualità che porto con me in ogni progetto.
 
 Formatomi con [Generation Italy](https://italy.generation.org/) nelle basi di **front-end** e **back-end development**, ho trovato nella programmazione un terreno stimolante dal punto di vista intellettuale e fertile per la mia creatività. Sono una persona con un carattere riflessivo e un’attitudine per il problem solving. Adoro affrontare nuove sfide che mi spingano a migliorare le mie abilità e ad apprendere nuove soluzioni.
+Dopo due mesi di intenso coding camp, sono stato assunto come programmatore entry level da [Pc Cube](https://www.pccube.com/).
 
 ---
 
 ### 🛠️ Competenze:
 
 - **Front End**:
-  HTML, CSS, JavaScript e framework Bootstrap.
+  HTML, CSS, JavaScript, Typescript, Angular, framework Bootstrap.
 
 - **Back End**:
   SQL (MySQL), Java con framework Spring (Spring Boot).
@@ -29,17 +30,9 @@ Formatomi con [Generation Italy](https://italy.generation.org/) nelle basi di **
 
 ---
 
-## 🌟 Cosa troverete qui?
-
-Ecco alcune delle aree su cui mi sto concentrando:  
-- **Progetti personali**: Progetti che impiegano Java (Spring Boot) per il back-end.
-- **Esercizi**: Raccolte di esercizi, sia front-end che back-end, opportunamente commentati.
-
----
-
 ## 🎯 Obiettivi
 
-Il mio obiettivo è crescere professionalmente come sviluppatore e consolidare ed espandere le competenze finora apprese. Un'area che vorrei esplorare nel futuro prossimo è quella dei **framework front-end** (**Angular** o **React**). Vorrei inoltre fare esperienza di **DBMS** diversi da MySQL (**MongoDB** in particolare).
+Il mio obiettivo è crescere professionalmente come sviluppatore e consolidare ed espandere le competenze finora apprese. Ringrazio **PC Cube** per la fiducia e l'opportunità professionale.
 
 ---
 
